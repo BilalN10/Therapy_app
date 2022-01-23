@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35317536904",
+    "project_id": "therapist-be360",
+    "storage_bucket": "therapist-be360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35317536904:android:b7c6b11230c093492ce73d",
+        "android_client_info": {
+          "package_name": "com.example.therapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35317536904-ug1tfpv561gr1b4kontj5uoi41egs7jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.therapist",
+            "certificate_hash": "94ade23f16e8c896b8e552f7fd53e23b097d998f"
+          }
+        },
+        {
+          "client_id": "35317536904-7qri3aqdv5vvdf1pl54b2chua2pgqm3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxquSoGDXU0l-0VjJjIVJf2qLLqfTiIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35317536904-7qri3aqdv5vvdf1pl54b2chua2pgqm3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
